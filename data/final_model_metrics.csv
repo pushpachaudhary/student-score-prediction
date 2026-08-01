@@ -1,0 +1,4 @@
+Metric,Before Tuning,After Tuning
+MAE,2.35,0.886
+RMSE,3.12,1.357
+R2 Score,0.84,0.8698
